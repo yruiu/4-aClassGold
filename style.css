@@ -1,0 +1,473 @@
+@import url('https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+.photo{
+    max-width: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: #FC354C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #0ABFBC, #FC354C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #0ABFBC, #FC354C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.conteiner{
+    width: 1200px;
+    min-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+}
+.nadiy{
+    width: 100%;
+    height: 70vh;
+    background: #00416A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(90deg, #FFE000, #799F0C, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(90deg, #FFE000, #799F0C, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.intro{
+    width: 100%;
+    height: 100%;
+    background: #DC2424;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(275deg, #4A569D, #DC2424);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(275deg, #4A569D, #DC2424); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.ul_li{
+    width: 100%;
+    height: 77vh;
+    background: #1FA2FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.class_a{
+    position: relative;
+    background: linear-gradient(to right, #a18cd1, #fbc2eb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.cvyto_bukv{
+    width: 100%;
+    height: 80vh;
+    background: #77A1D3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #DC2424, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #DC2424, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.header{
+    background: #ec008c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fc6767, #ec008c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fc6767, #ec008c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 100%;
+    height: 6%;
+}
+.travel{
+    background: #acb6e5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #86fde8, #acb6e5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #86fde8, #acb6e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 100%;
+    height: 100vh;
+}
+.nauk{
+    width: 100%;
+    height: 100vh;
+    background: #59C173;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #5D26C1, #a17fe0, #59C173);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #5D26C1, #a17fe0, #59C173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.lybov{
+    width: 100%;
+    height: 70vh;
+    background: #ffe259;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffa751, #ffe259);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffa751, #ffe259); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.nav{
+    position:  relative;
+    bottom: 6%;
+}
+.span_logo{
+    font-size: 44px;
+    font-family: 'Lily Script One', cursive;
+    color: gold;
+    position: relative;
+    left: 34.6667%;
+    top: 13vh;
+}
+.line{
+    width: 28.66666666666667%;
+    height: 3px;
+    background: #3f3f3f;
+    position: relative;
+    left: 34.6667%;
+    top: 13vh;
+}
+.nay_span{
+    font-family: 'Marck Script', cursive;
+    color: gold;
+    font-size: 44px;
+    position: relative;
+    left: 34.6667%;
+    top: 13vh;
+}
+.img1{
+    width: 28%;
+    height: 28%;
+    border-radius: 100px;
+    position: relative;
+    top: 28vh;
+    left: 35%;
+}
+.kc{
+    border: 3px solid gold;
+    border-radius: 80px;
+    width: 38%;
+    font-size: 21px;
+    color: gold;
+    margin: 0 auto;
+    position: relative;
+    top: 15vh
+}
+.line1{
+    width: 100%;
+    height: 3px;
+    background-color: #FFE47A;
+}
+.KL_span{
+    cursor: default;
+    font-family: 'Marck Script', cursive;
+    text-decoration: none;
+    color: #e8b600;
+    position: relative;
+    left: 20%;
+}
+.IN_span{
+    font-family: 'Marck Script', cursive;
+    text-decoration: none;
+    color: #e8b600;
+    position: relative;
+    left: 80%;
+    animation: right  ease-in 5s infinite;
+}
+@keyframes right {
+    0%{
+        left: 80%;
+        bottom: 0%;
+    }
+    70%{
+        bottom: 0%;
+    }
+    50%{
+        left: 70%;
+        bottom: 20%;
+    }
+    100%{
+        left: 80%;
+    }
+}
+.kc_span{
+    font-family: 'Lobster', cursive;
+    position: relative;
+    left: 7.1322%;
+}
+.vk{
+    width: 13.33333333333333%;
+    height: 38px;
+    border: 8px double #FFE47A;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 17px;
+    position: relative;
+    left: 84.666666667%;
+    top:16.7456845%;
+}
+.vk_span{
+    position: relative;
+    top: 10px;
+}
+/* ul */
+.ul1{
+    list-style-type: decimal;
+    position: relative;
+    bottom: 35%;
+    left: 26.99%;
+}
+.li_class{
+    color: #DC2424;
+    font-family: 'Lobster', cursive;
+    width: 30%;
+    transition: all 0.5s linear;
+    font-size: 14px;
+}
+.li_class:hover{
+    color: gold;
+    border: 4px solid gold;
+}
+.img_ul_li1{
+    width: 28.8%;
+    height: 35%;
+}
+.img_ul_li2{
+    width: 25%;
+    height: 20%;
+    position: relative;
+    left: 72.395179%;
+    bottom: 60.57vh;
+}
+.class_a{
+    text-decoration: none;
+    margin: 0 0.8333333333333333%;
+    color: goldenrod;
+    position: relative;
+    bottom: 6vh;
+    left: 26.66666666666667%;
+}
+.cvyto_bukv{
+    transition: all 0.5s linear;
+}
+.logo{
+    width: 7.99%;
+    height: 100.99%;
+}
+
+.cvyto_bukv_span{
+    font-family: 'Lobster', cursive;
+    font-size: 38px;
+    position: relative;
+    left: 20%;
+    bottom: 30%;
+    color: #fff;
+}
+.cvyto_bukv_span1{
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+    position: relative;
+    left: 22%;
+    top: 10%;
+    color: #fff;
+}
+.cvyto_bukv_img1{
+    width: 12.594%;
+    position: relative;
+    left: -3%;
+    top: 4%;
+}
+.cvyto_bukv_img2{
+    width: 12.594%;
+    position: relative;
+    left: 0%;
+    top: 10%;
+}
+.cvyto_bukv_span2{
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+    position: relative;
+    left: 0%;
+    color: #fff;
+}
+.cvyto_bukv_img0{
+    width: 12%;
+    height: 30%;
+    position: relative;
+    right: 20%;
+}
+.zan{
+    background: #076585;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(45deg, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(45deg, #fff, #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 100%;
+    height: 80vh;
+}
+.zan_span{
+    font-family: 'Lobster', cursive;
+    font-size: 32px;
+    position: relative;
+    left: 30%;
+    color: #fff;
+}
+.line3{
+    width: 39%;
+    height: 3px;
+    position: relative;
+    left: 30%;
+    top: 2%;
+    background-color: #e8b600;
+}
+.zan_img1{
+    width: 40%;
+    height: 30%;
+    position: relative;
+    left: 4%;
+    top: 10%;
+}
+.zan_img2{
+    width: 20%;
+    height: 45%;
+    position: relative;
+    left: 20%;
+    top: 10%;
+}
+.travel_span{
+    font-family: 'Pacifico', cursive;
+    color: #3f2f7d;
+    font-size: 32px;
+    position: relative;
+    left: 20%;
+}
+.line4{
+    width: 20%;
+    height: 3px;
+    position: relative;
+    left: 20%;
+    background-color: #1FA2FF;
+}
+/*  TREVEL  */
+.travel_img1{
+    width: 20%;
+    height: 40%;
+}
+.travel_img2{
+    width: 30%;
+    height: 30%;
+    position: relative;
+    left: 40%;
+}
+.travel_img3{
+    width: 20%;
+    height: 40%;
+    position: relative;
+    left: -20%;
+}
+.lybov_span{
+    text-decoration: none;
+    color: #333;
+    font-size: 40px;
+    font-family: 'Source Code Pro', monospace;
+    position: relative;
+    left: -5%;
+    bottom: 30%;
+}
+.lybov_img{
+    width: 20%;
+    height: 50%;
+    position: relative;
+    top: 40%;
+    right: 30%
+}
+.nadiy_img{
+    width: 30%;
+    height: 45%;
+    position: relative;
+    top: 40%;
+    right: 10%;
+}
+
+
+.nadiy_span{
+    text-decoration: none;
+    color: #333;
+    font-size: 40px;
+    font-family: 'Source Code Pro', monospace;
+    position: relative;
+    left: 25%;
+    bottom: 21%;
+    animation: movd ease-in 5s infinite;
+}
+.nauk_span{
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+    background: linear-gradient(#DA4453, #89216B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+    left: 30%;
+    bottom: 20%;
+    
+}
+.nauk_img{
+    width: 40%;
+    height: 30%;
+    position: relative;
+    top: 38%;
+    left: 38%;
+}
+.nauk_img1{
+    width: 26%;
+    height: 38%;
+    position: relative;
+    top: 38%;
+    left: -50%;
+}
+.lyb{
+    text-decoration: none;
+    color: #333;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    bottom: 40%;
+    left: 30%;
+}
+.nady{
+    text-decoration: none;
+    color: #333;
+    font-size: 40px;
+    font-family: 'Source Code Pro', monospace;
+    position: relative;
+    left: 25%;
+    bottom: -15%;
+    animation: move linear 5s infinite;
+
+}
+@keyframes movd{
+    0%{
+        left: 25%;
+        bottom: 21%;
+    }
+    30%{
+        left: 20%;
+        bottom: 26%;
+    }
+    50%{
+        left: 15%;
+        bottom: 31%;
+    }
+    80%{
+        left:20%;
+        bottom: 26%;
+    }
+    100%{
+        left: 25%;
+        bottom: 21%;
+    }
+}
+@keyframes move{
+    0%{
+        left: 25%;
+        bottom: -15%;
+    }
+    30%{
+        left: 20%;
+        bottom: -20%;
+    }
+    50%{
+        left: 15%;
+        bottom: -25%;
+    }
+    80%{
+        left:20%;
+        bottom: -20%;
+    }
+    100%{
+        left: 25%;
+        bottom: -15%;
+    }
+}
